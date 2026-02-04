@@ -11,3 +11,6 @@ To participate with VSCode (no addon)
 - stage changes
 - commit
 - create a pull request on GitHub
+
+VSCode addons exist to ease the process yet require some knowledge :
+- GitHub Pull Requests
